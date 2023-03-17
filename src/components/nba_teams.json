@@ -1,185 +1,214 @@
 {
-    "teams": [
-      {
-        "id": 1,
-        "name": "Atlanta Hawks",
-        "city": "Atlanta",
-        "owner": "Tony Ressler"
-      },
-      {
-        "id": 2,
-        "name": "Boston Celtics",
-        "city": "Boston",
-        "owner": "Wyc Grousbeck"
-      },
-      {
-        "id": 3,
-        "name": "Brooklyn Nets",
-        "city": "Brooklyn",
-        "owner": "Joseph Tsai"
-      },
-      {
-        "id": 4,
-        "name": "Charlotte Hornets",
-        "city": "Charlotte",
-        "owner": "Michael Jordan"
-      },
-      {
-        "id": 5,
-        "name": "Chicago Bulls",
-        "city": "Chicago",
-        "owner": "Jerry Reinsdorf"
-      },
-      {
-        "id": 6,
-        "name": "Cleveland Cavaliers",
-        "city": "Cleveland",
-        "owner": "Dan Gilbert"
-      },
-      {
-        "id": 7,
-        "name": "Dallas Mavericks",
-        "city": "Dallas",
-        "owner": "Mark Cuban"
-      },
-      {
-        "id": 8,
-        "name": "Denver Nuggets",
-        "city": "Denver",
-        "owner": "Stan Kroenke"
-      },
-      {
-        "id": 9,
-        "name": "Detroit Pistons",
-        "city": "Detroit",
-        "owner": "Tom Gores"
-      },
-      {
-        "id": 10,
-        "name": "Golden State Warriors",
-        "city": "San Francisco",
-        "owner": "Joe Lacob"
-      },
-      {
-        "id": 11,
-        "name": "Houston Rockets",
-        "city": "Houston",
-        "owner": "Tilman Fertitta"
-      },
-      {
-        "id": 12,
-        "name": "Indiana Pacers",
-        "city": "Indianapolis",
-        "owner": "Herb Simon"
-      },
-      {
-        "id": 13,
-        "name": "Los Angeles Clippers",
-        "city": "Los Angeles",
-        "owner": "Steve Ballmer"
-      },
-      {
-        "id": 14,
-        "name": "Los Angeles Lakers",
-        "city": "Los Angeles",
-        "owner": "Jeanie Buss"
-      },
-      {
-        "id": 15,
-        "name": "Memphis Grizzlies",
-        "city": "Memphis",
-        "owner": "Robert Pera"
-      },
-      {
-        "id": 16,
-        "name": "Miami Heat",
-        "city": "Miami",
-        "owner": "Micky Arison"
-      },
-      {
-        "id": 17,
-        "name": "Milwaukee Bucks",
-        "city": "Milwaukee",
-        "owner": "Wes Edens"
-      },
-      {
-        "id": 18,
-        "name": "Minnesota Timberwolves",
-        "city": "Minneapolis",
-        "owner": "Glen Taylor"
-      },
-      {
-        "id": 19,
-        "name": "New Orleans Pelicans",
-        "city": "New Orleans",
-        "owner": "Gayle Benson"
-      },
-      {
-        "id": 20,
-        "name": "New York Knicks",
-        "city": "New York",
-        "owner": "James Dolan"
-      },
-      {
-        "id": 21,
-        "name": "Oklahoma City Thunder",
-        "city": "Oklahoma City",
-        "owner": "Clayton Bennett"
-      },
-      {
-        "id": 22,
-        "name": "Orlando Magic",
-        "city": "Orlando",
-        "owner": "Rich DeVos"
-      },
-      {
-        "id": 23,
-        "name": "Philadelphia 76ers",
-        "city": "Philadelphia",
-        "owner": "Joshua Harris"
-      },
-      {
-        "id": 24,
-        "name": "Phoenix Suns",
-        "city": "Phoenix",
-        "owner": "Robert Sarver"
-      },
-      {
-        "id": 25,
-        "name": "Portland Trail Blazers",
-        "city": "Portland",
-        "owner": "Jody Allen"
-      },
-      {
-        "id": 26,
-        "name": "Sacramento Kings",
-        "city": "Sacramento",
-        "owner": "Vivek Ranadivé"
-      },
-      {
-        "id": 27,
-        "name": "San Antonio Spurs",
-        "city": "San Antonio",
-        "owner": "Peter Holt"
-      },
-      {
-        "id": 28,
-        "name": "Toronto Raptors",
-        "city": "Toronto",
-        "owner": "Maple Leaf Sports & Entertainment"
-      },
-      {
-        "id": 29,
-        "name": "Utah Jazz",
-        "city": "Salt Lake City",
-        "owner": "Ryan Smith"
-      },
-      {
-        "id": 30,
-        "name": "Washington Wizards",
-        "city": "Washington",
-        "owner": "Ted Leonsis"
-      }
-    ]
-  }   
-  
+  "teams": [
+    {
+      "id": 1,
+      "name": "Atlanta Hawks",
+      "city": "Atlanta",
+      "owner": "Tony Ressler",
+      "arena": "State Farm Arena"
+    },
+    {
+      "id": 2,
+      "name": "Boston Celtics",
+      "city": "Boston",
+      "owner": "Wyc Grousbeck",
+      "arena": "TD Garden"
+    },
+    {
+      "id": 3,
+      "name": "Brooklyn Nets",
+      "city": "Brooklyn",
+      "owner": "Joseph Tsai",
+      "arena": "Barclays Center"
+    },
+    {
+      "id": 4,
+      "name": "Charlotte Hornets",
+      "city": "Charlotte",
+      "owner": "Michael Jordan",
+      "arena": "Spectrum Center"
+    },
+    {
+      "id": 5,
+      "name": "Chicago Bulls",
+      "city": "Chicago",
+      "owner": "Jerry Reinsdorf",
+      "arena": "United Center"
+    },
+    {
+      "id": 6,
+      "name": "Cleveland Cavaliers",
+      "city": "Cleveland",
+      "owner": "Dan Gilbert",
+      "arena": "Rocket Mortgage FieldHouse"
+    },
+    {
+      "id": 7,
+      "name": "Dallas Mavericks",
+      "city": "Dallas",
+      "owner": "Mark Cuban",
+      "arena": "American Airlines Center"
+    },
+    {
+      "id": 8,
+      "name": "Denver Nuggets",
+      "city": "Denver",
+      "owner": "Stan Kroenke",
+      "arena": "Ball Arena"
+    },
+    {
+      "id": 9,
+      "name": "Detroit Pistons",
+      "city": "Detroit",
+      "owner": "Tom Gores",
+      "arena": "Little Caesars Arena"
+    },
+    {
+      "id": 10,
+      "name": "Golden State Warriors",
+      "city": "San Francisco",
+      "owner": "Joe Lacob",
+      "arena": "Chase Center"
+    },
+    {
+      "id": 11,
+      "name": "Houston Rockets",
+      "city": "Houston",
+      "owner": "Tilman Fertitta",
+      "arena": "Toyota Center"
+    },
+    {
+      "id": 12,
+      "name": "Indiana Pacers",
+      "city": "Indianapolis",
+      "owner": "Herb Simon",
+      "arena": "Gainbridge Fieldhouse"
+    },
+    {
+      "id": 13,
+      "name": "Los Angeles Clippers",
+      "city": "Los Angeles",
+      "owner": "Steve Ballmer",
+      "arena": "Crypto.com Arena"
+    },
+    {
+      "id": 14,
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "owner": "Jeanie Buss",
+      "arena": "Crypto.com Arena"
+    },
+    {
+      "id": 15,
+      "name": "Memphis Grizzlies",
+      "city": "Memphis",
+      "owner": "Robert Pera",
+      "arena": "FedExForum"
+    },
+    {
+      "id": 16,
+      "name": "Miami Heat",
+      "city": "Miami",
+      "owner": "Micky Arison",
+      "arena": "FTX Arena"
+    },
+    {
+      "id": 17,
+      "name": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "owner": "Wes Edens",
+      "arena": "Fiserv Forum"
+    },
+    {
+      "id": 18,
+      "name": "Minnesota Timberwolves",
+      "city": "Minneapolis",
+      "owner": "Glen Taylor",
+      "arena": "Target Center"
+    },
+    {
+      "id": 19,
+      "name": "New Orleans Pelicans",
+      "city": "New Orleans",
+      "owner": "Gayle Benson",
+      "arena": "Smoothie King Center"
+    },
+    {
+      "id": 20,
+      "name": "New York Knicks",
+      "city": "New York",
+      "owner": "James Dolan",
+      "arena": "Madison Square Garden"
+    },
+    {
+      "id": 21,
+      "name": "Oklahoma City Thunder",
+      "city": "Oklahoma City",
+      "owner": "Clayton Bennett",
+      "arena": "Paycom Center"
+    },
+    {
+      "id": 22,
+      "name": "Orlando Magic",
+      "city": "Orlando",
+      "owner": "Rich DeVos",
+      "arena": "Amway Center"
+    },
+    {
+      "id": 23,
+      "name": "Philadelphia 76ers",
+      "city": "Philadelphia",
+      "owner": "Joshua Harris",
+      "arena": "Wells Fargo Center"
+    },
+    {
+      "id": 24,
+      "name": "Phoenix Suns",
+      "city": "Phoenix",
+      "owner": "Robert Sarver",
+      "arena": "Footprint Center"
+    },
+    {
+      "id": 25,
+      "name": "Portland Trail Blazers",
+      "city": "Portland",
+      "owner": "Jody Allen",
+      "arena": "Moda Center"
+    },
+    {
+      "id": 26,
+      "name": "Sacramento Kings",
+      "city": "Sacramento",
+      "owner": "Vivek Ranadivé",
+      "arena": "Golden 1 Center"
+    },
+    {
+      "id": 27,
+      "name": "San Antonio Spurs",
+      "city": "San Antonio",
+      "owner": "Peter Holt",
+      "arena": "AT&T Center",
+    },
+    {
+      "id": 28,
+      "name": "Toronto Raptors",
+      "city": "Toronto",
+      "owner": "Maple Leaf Sports & Entertainment",
+      "arena": "Scotiabank Arena"
+    },
+    {
+      "id": 29,
+      "name": "Utah Jazz",
+      "city": "Salt Lake City",
+      "owner": "Ryan Smith",
+      "arena": "Vivint 1 Center"
+    },
+    {
+      "id": 30,
+      "name": "Washington Wizards",
+      "city": "Washington",
+      "owner": "Ted Leonsis",
+      "arena": "Capital One Center"
+    }
+  ]
+}   
