@@ -7,6 +7,28 @@
   pointer-events: none;
 }
 
+.navbar {
+  text-align: left;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.logo {
+  display: block;
+  max-height: 300px;  margin: 0 auto; /* center the image horizontally */
+}
+
+.team-info {
+  display: flex;
+  justify-content: center;
+}
+
+.team-info p {
+  margin: 0 10px; /* adjust the margin as needed */
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -27,6 +49,8 @@
 .App-link {
   color: #61dafb;
 }
+
+
 
 @keyframes App-logo-spin {
   from {

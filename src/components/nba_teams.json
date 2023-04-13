@@ -3,212 +3,273 @@
     {
       "id": 1,
       "name": "Atlanta Hawks",
-      "city": "Atlanta",
+      "city": "Atlanta, Georgia",
       "owner": "Tony Ressler",
-      "arena": "State Farm Arena"
+      "arena": "State Farm Arena",
+      "logo": "https://i.imgur.com/1qHkj59.png"
     },
     {
       "id": 2,
       "name": "Boston Celtics",
-      "city": "Boston",
+      "city": "Boston, Massachusetts",
       "owner": "Wyc Grousbeck",
-      "arena": "TD Garden"
+      "arena": "TD Garden",
+      "logo": "https://i.imgur.com/3Faypzj.png"
+
     },
     {
       "id": 3,
       "name": "Brooklyn Nets",
-      "city": "Brooklyn",
+      "city": "Brooklyn, New York",
       "owner": "Joseph Tsai",
-      "arena": "Barclays Center"
+      "arena": "Barclays Center",
+      "logo": "https://i.imgur.com/aYmvOLl.png"
+
     },
     {
       "id": 4,
       "name": "Charlotte Hornets",
-      "city": "Charlotte",
+      "city": "Charlotte, North Carolina",
       "owner": "Michael Jordan",
-      "arena": "Spectrum Center"
+      "arena": "Spectrum Center",
+      "logo": "https://i.imgur.com/RS3NCr3.png"
+
     },
     {
       "id": 5,
       "name": "Chicago Bulls",
-      "city": "Chicago",
+      "city": "Chicago, Illinois",
       "owner": "Jerry Reinsdorf",
-      "arena": "United Center"
+      "arena": "United Center",
+      "logo": "https://i.imgur.com/AaMZVys.png"
+
+
     },
     {
       "id": 6,
       "name": "Cleveland Cavaliers",
-      "city": "Cleveland",
+      "city": "Cleveland, Ohio",
       "owner": "Dan Gilbert",
-      "arena": "Rocket Mortgage FieldHouse"
+      "arena": "Rocket Mortgage FieldHouse",
+      "logo": "https://imgur.com/MGtLNXk"
+
+
     },
     {
       "id": 7,
       "name": "Dallas Mavericks",
-      "city": "Dallas",
+      "city": "Dallas, Texas",
       "owner": "Mark Cuban",
-      "arena": "American Airlines Center"
+      "arena": "American Airlines Center",
+      "logo": "https://imgur.com/MGtLNXk"
+
+
     },
     {
       "id": 8,
       "name": "Denver Nuggets",
-      "city": "Denver",
+      "city": "Denver, Colorado",
       "owner": "Stan Kroenke",
-      "arena": "Ball Arena"
+      "arena": "Ball Arena",
+      "logo": "https://i.imgur.com/u9EslOq.png"
     },
     {
       "id": 9,
       "name": "Detroit Pistons",
-      "city": "Detroit",
+      "city": "Detroit, Michigan",
       "owner": "Tom Gores",
-      "arena": "Little Caesars Arena"
+      "arena": "Little Caesars Arena",
+      "logo": "https://i.imgur.com/0HyTnXP.png"
+
     },
     {
       "id": 10,
       "name": "Golden State Warriors",
-      "city": "San Francisco",
+      "city": "San Francisco, California",
       "owner": "Joe Lacob",
-      "arena": "Chase Center"
+      "arena": "Chase Center",
+      "logo": "https://i.imgur.com/OoUQlVS.png"
+
     },
     {
       "id": 11,
       "name": "Houston Rockets",
-      "city": "Houston",
+      "city": "Houston, Texas",
       "owner": "Tilman Fertitta",
-      "arena": "Toyota Center"
+      "arena": "Toyota Center",
+      "logo": "https://i.imgur.com/OrEnS8s.png"
+
     },
     {
       "id": 12,
       "name": "Indiana Pacers",
-      "city": "Indianapolis",
+      "city": "Indianapolis, Indiana",
       "owner": "Herb Simon",
-      "arena": "Gainbridge Fieldhouse"
+      "arena": "Gainbridge Fieldhouse",
+      "logo": "https://i.imgur.com/ZUWZZw2.png"
+
     },
     {
       "id": 13,
       "name": "Los Angeles Clippers",
-      "city": "Los Angeles",
+      "city": "Los Angeles, California",
       "owner": "Steve Ballmer",
-      "arena": "Crypto.com Arena"
+      "arena": "Crypto.com Arena",
+      "logo": "https://i.imgur.com/hKYMu7F.png"
+
     },
     {
       "id": 14,
       "name": "Los Angeles Lakers",
-      "city": "Los Angeles",
+      "city": "Los Angeles, California",
       "owner": "Jeanie Buss",
-      "arena": "Crypto.com Arena"
+      "arena": "Crypto.com Arena",
+      "logo": "https://i.imgur.com/d4eX7ob.png"
+
     },
     {
       "id": 15,
       "name": "Memphis Grizzlies",
-      "city": "Memphis",
+      "city": "Memphis, Tennessee",
       "owner": "Robert Pera",
-      "arena": "FedExForum"
+      "arena": "FedExForum",
+      "logo": "https://i.imgur.com/TKzegeQ.png"
+
     },
     {
       "id": 16,
       "name": "Miami Heat",
-      "city": "Miami",
+      "city": "Miami, Florida",
       "owner": "Micky Arison",
-      "arena": "FTX Arena"
+      "arena": "FTX Arena",
+      "logo": "https://i.imgur.com/349plMs.png"
+
     },
     {
       "id": 17,
       "name": "Milwaukee Bucks",
-      "city": "Milwaukee",
+      "city": "Milwaukee, Wisconsin",
       "owner": "Wes Edens",
-      "arena": "Fiserv Forum"
+      "arena": "Fiserv Forum",
+      "logo": "https://i.imgur.com/aNk4iAA.png"
+
     },
     {
       "id": 18,
       "name": "Minnesota Timberwolves",
-      "city": "Minneapolis",
+      "city": "Minneapolis, Minnesota",
       "owner": "Glen Taylor",
-      "arena": "Target Center"
+      "arena": "Target Center",
+      "logo": "https://i.imgur.com/UJa3M1S.png"
+
     },
     {
       "id": 19,
       "name": "New Orleans Pelicans",
-      "city": "New Orleans",
+      "city": "New Orleans, Louisiana",
       "owner": "Gayle Benson",
-      "arena": "Smoothie King Center"
+      "arena": "Smoothie King Center",
+      "logo": "https://i.imgur.com/CyVOLDB.png"
+
     },
     {
       "id": 20,
       "name": "New York Knicks",
-      "city": "New York",
+      "city": "Manhattan, New York",
       "owner": "James Dolan",
-      "arena": "Madison Square Garden"
+      "arena": "Madison Square Garden",
+      "logo": "https://i.imgur.com/sY7RmpC.png"
+
     },
     {
       "id": 21,
       "name": "Oklahoma City Thunder",
-      "city": "Oklahoma City",
+      "city": "Oklahoma City, Oklahoma",
       "owner": "Clayton Bennett",
-      "arena": "Paycom Center"
+      "arena": "Paycom Center",
+      "logo": "https://i.imgur.com/WoOzabo.png"
+
     },
     {
       "id": 22,
       "name": "Orlando Magic",
-      "city": "Orlando",
+      "city": "Orlando, Florida",
       "owner": "Rich DeVos",
-      "arena": "Amway Center"
+      "arena": "Amway Center",
+      "logo": "https://i.imgur.com/IxqbWG5.png"
+
     },
     {
       "id": 23,
       "name": "Philadelphia 76ers",
-      "city": "Philadelphia",
+      "city": "Philadelphia, Pennsylvania",
       "owner": "Joshua Harris",
-      "arena": "Wells Fargo Center"
+      "arena": "Wells Fargo Center",
+      "logo": "https://i.imgur.com/TpiWfE1.png"
+
     },
     {
       "id": 24,
       "name": "Phoenix Suns",
-      "city": "Phoenix",
-      "owner": "Robert Sarver",
-      "arena": "Footprint Center"
+      "city": "Phoenix, Arizona",
+      "owner": "Mat Ishbia",
+      "arena": "Footprint Center",
+      "logo": "https://imgur.com/MGtLNXk"
+
     },
     {
       "id": 25,
       "name": "Portland Trail Blazers",
-      "city": "Portland",
+      "city": "Portland, Oregon",
       "owner": "Jody Allen",
-      "arena": "Moda Center"
+      "arena": "Moda Center",
+      "logo": "https://i.imgur.com/SEu5L7B.png"
+
     },
     {
       "id": 26,
       "name": "Sacramento Kings",
-      "city": "Sacramento",
+      "city": "Sacramento, California",
       "owner": "Vivek Ranadivé",
-      "arena": "Golden 1 Center"
+      "arena": "Golden 1 Center",
+      "logo": "https://imgur.com/MGtLNXk"
+
     },
     {
       "id": 27,
       "name": "San Antonio Spurs",
-      "city": "San Antonio",
+      "city": "San Antonio, Texas",
       "owner": "Peter Holt",
-      "arena": "AT&T Center"
+      "arena": "AT&T Center",
+      "logo": "https://i.imgur.com/jqG7gdp.png"
+
     },
     {
       "id": 28,
       "name": "Toronto Raptors",
-      "city": "Toronto",
+      "city": "Toronto, Ontario, Canada",
       "owner": "Maple Leaf Sports & Entertainment",
-      "arena": "Scotiabank Arena"
+      "arena": "Scotiabank Arena",
+      "logo": "https://i.imgur.com/FzBBooJ.png"
+
     },
     {
       "id": 29,
       "name": "Utah Jazz",
-      "city": "Salt Lake City",
+      "city": "Salt Lake City, Utah",
       "owner": "Ryan Smith",
-      "arena": "Vivint 1 Center"
+      "arena": "Vivint 1 Center",
+      "logo": "https://i.imgur.com/pwJllFo.png"
+
     },
     {
       "id": 30,
       "name": "Washington Wizards",
-      "city": "Washington",
+      "city": "Washington DC",
       "owner": "Ted Leonsis",
-      "arena": "Capital One Center"
+      "arena": "Capital One Center",
+      "logo": "https://imgur.com/MGtLNXk"
+
     }
   ]
 }   
