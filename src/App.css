@@ -16,7 +16,7 @@
 
 .logo {
   display: block;
-  max-height: 300px;  margin: 0 auto; /* center the image horizontally */
+  max-height: 250px;  margin: 0 auto; /* center the image horizontally */
 }
 
 .team-info {
@@ -26,6 +26,12 @@
 
 .team-info p {
   margin: 0 10px; /* adjust the margin as needed */
+}
+
+.youtube {
+  display: flex;
+  justify-content: space-between;
+  margin: 25px;
 }
 
 
