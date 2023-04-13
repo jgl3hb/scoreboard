@@ -2,17 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import teamsData from './nba_teams.json';
 import YouTube from 'react-youtube';
-const VideoEmbed = ({ videoId }) => {
-  const opts = {
-    height: '390',
-    width: '640',
-    playerVars: {
-      autoplay: 0,
-    },
-  };
-
-  return <YouTube videoId={videoId} opts={opts} />;
-};
+import ReactPlayer from 'react-player'
 
 const TeamPage = () => {
   const { id } = useParams();
@@ -35,8 +25,8 @@ const TeamPage = () => {
         </div>
         <h2>Our Featured Videos</h2>
           <div class="youtube">
-            <VideoEmbed videoId="your_video_id_1" />
-            <VideoEmbed videoId="your_video_id_2" />
+          <ReactPlayer url='https://www.youtube.com/watch?v=q_hCQBlAFr0' />
+          <ReactPlayer url='https://www.youtube.com/watch?v=ZZqlXY6rqDk' />
           </div>
     </div>
   );
