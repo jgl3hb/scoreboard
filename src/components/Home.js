@@ -10,13 +10,11 @@ const Home = () => {
   return (
     <div>
       <h1>Bomb Scoreboard</h1>
-      <ul>
         {filteredTeams.map((team) => (
           <li key={team.id}>
             <Link to={`/team/${team.id}`}>{team.name}</Link>
           </li>
         ))}
-      </ul>
     </div>
   );
 };
