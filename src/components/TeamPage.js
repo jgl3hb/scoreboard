@@ -25,6 +25,12 @@ const TeamPage = () => {
 
   return (
     <div className="team-info">
+         {filteredTeams.map((team) => (
+          <li key={team.id}>
+            <a href={`/team/${team.id}`}>{team.name}</a>
+          </li>
+        ))}
+        
       <img src={imagePath} alt={`${team.name} logo`} className="logo" style={logoStyle} />     
         <p>{team.city}</p>
         <p>{team.arena}</p>
@@ -35,11 +41,7 @@ const TeamPage = () => {
         <ReactPlayer url="https://www.youtube.com/watch?v=ZZqlXY6rqDk" />
       </div>
       <h2>Search for Other Teams</h2>
-        {filteredTeams.map((team) => (
-          <li key={team.id}>
-            <a href={`/team/${team.id}`}>{team.name}</a>
-          </li>
-        ))}
+     
     </div>
   );
 };
