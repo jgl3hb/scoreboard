@@ -1,0 +1,261 @@
+{
+    "teams": [
+      {
+        "id": 1,
+        "name": "Arizona Cardinals",
+        "city": "Glendale, Arizona",
+        "owner": "Michael Bidwill",
+        "stadium": "State Farm Stadium",
+        "logo": "https://i.imgur.com/1qHkj59.png"
+      },
+      {
+        "id": 2,
+        "name": "Atlanta Falcons",
+        "city": "Atlanta, Georgia",
+        "owner": "Arthur Blank",
+        "stadium": "Mercedes-Benz Stadium",
+        "logo": "https://i.imgur.com/2qHkj59.png"
+      },
+      {
+        "id": 3,
+        "name": "Baltimore Ravens",
+        "city": "Baltimore, Maryland",
+        "owner": "Stephen Bisciotti",
+        "stadium": "M&T Bank Stadium",
+        "logo": "https://i.imgur.com/3qHkj59.png"
+      },
+      {
+        "id": 4,
+        "name": "Buffalo Bills",
+        "city": "Orchard Park, New York",
+        "owner": "Terry Pegula",
+        "stadium": "Highmark Stadium",
+        "logo": "https://i.imgur.com/4qHkj59.png"
+      },
+      {
+        "id": 5,
+        "name": "Carolina Panthers",
+        "city": "Charlotte, North Carolina",
+        "owner": "David Tepper",
+        "stadium": "Bank of America Stadium",
+        "logo": "https://i.imgur.com/5qHkj59.png"
+      },
+      {
+        "id": 6,
+        "name": "Chicago Bears",
+        "city": "Chicago, Illinois",
+        "owner": "Virginia Halas McCaskey",
+        "stadium": "Soldier Field",
+        "logo": "https://i.imgur.com/6qHkj59.png"
+      },
+      {
+        "id": 7,
+        "name": "Cincinnati Bengals",
+        "city": "Cincinnati, Ohio",
+        "owner": "Mike Brown",
+        "stadium": "Paul Brown Stadium",
+        "logo": "https://i.imgur.com/7qHkj59.png"
+      },
+      {
+        "id": 8,
+        "name": "Cleveland Browns",
+        "city": "Cleveland, Ohio",
+        "owner": "Jimmy Haslam",
+        "stadium": "FirstEnergy Stadium",
+        "logo": "https://i.imgur.com/8qHkj59.png"
+      },
+      {
+        "id": 9,
+        "name": "Dallas Cowboys",
+        "city": "Arlington, Texas",
+        "owner": "Jerry Jones",
+        "stadium": "AT&T Stadium",
+        "logo": "https://i.imgur.com/9qHkj59.png"
+      },
+      {
+        "id": 10,
+        "name": "Denver Broncos",
+        "city": "Denver, Colorado",
+        "owner": "Pat Bowlen Trust",
+        "stadium": "Empower Field at Mile High",
+        "logo": "https://i.imgur.com/10qHkj59.png"
+      },
+      {
+        "id": 11,
+        "name": "Detroit Lions",
+        "city": "Detroit, Michigan",
+        "owner": "Sheila Ford Hamp",
+        "stadium": "Ford Field",
+        "logo": "https://i.imgur.com/11qHkj59.png"
+      },
+      {
+        "id": 12,
+        "name": "Green Bay Packers",
+        "city": "Green Bay, Wisconsin",
+        "owner": "Green Bay Packers, Inc.",
+        "stadium": "Lambeau Field",
+        "logo": "https://i.imgur.com/12qHkj59.png"
+      },
+      {
+        "id": 13,
+        "name": "Houston Texans",
+        "city": "Houston, Texas",
+        "owner": "Janice McNair",
+        "stadium": "NRG Stadium",
+        "logo": "https://i.imgur.com/13qHkj59.png"
+      },
+      {
+        "id": 14,
+        "name": "Indianapolis Colts",
+        "city": "Indianapolis, Indiana",
+        "owner": "Jim Irsay",
+        "stadium": "Lucas Oil Stadium",
+        "logo": "https://i.imgur.com/14qHkj59.png"
+      },
+      {
+        "id": 15,
+        "name": "Jacksonville Jaguars",
+        "city": "Jacksonville, Florida",
+        "owner": "Shahid Khan",
+        "stadium": "TIAA Bank Field",
+        "logo": "https://i.imgur.com/15qHkj59.png"
+      },
+      {
+        "id": 16,
+        "name": "Kansas City Chiefs",
+        "city": "Kansas City, Missouri",
+        "owner": "Clark Hunt",
+        "stadium": "Arrowhead Stadium",
+        "logo": "https://i.imgur.com/16qHkj59.png"
+      },
+      {
+        "id": 17,
+        "name": "Las Vegas Raiders",
+        "city": "Paradise, Nevada",
+        "owner": "Mark Davis",
+        "stadium": "Allegiant Stadium",
+        "logo": "https://i.imgur.com/17qHkj59.png"
+      },
+      {
+        "id": 18,
+        "name": "Los Angeles Chargers",
+        "city": "Inglewood, California",
+        "owner": "Dean Spanos",
+        "stadium": "SoFi Stadium",
+        "logo": "https://i.imgur.com/18qHkj59.png"
+      },
+      {
+        "id": 19,
+        "name": "Los Angeles Rams",
+        "city": "Inglewood, California",
+        "owner": "Stan Kroenke",
+        "stadium": "SoFi Stadium",
+        "logo": "https://i.imgur.com/19qHkj59.png"
+      },
+      {
+        "id": 20,
+        "name": "Miami Dolphins",
+        "city": "Miami Gardens, Florida",
+        "owner": "Stephen Ross",
+        "stadium": "Hard Rock Stadium",
+        "logo": "https://i.imgur.com/20qHkj59.png"
+      },
+      {
+        "id": 21,
+        "name": "Minnesota Vikings",
+        "city": "Minneapolis, Minnesota",
+        "owner": "Zygi Wilf",
+        "stadium": "U.S. Bank Stadium",
+        "logo": "https://i.imgur.com/21qHkj59.png"
+      },
+      {
+        "id": 22,
+        "name": "New England Patriots",
+        "city": "Foxborough, Massachusetts",
+        "owner": "Robert Kraft",
+        "stadium": "Gillette Stadium",
+        "logo": "https://i.imgur.com/22qHkj59.png"
+      },
+      {
+        "id": 23,
+        "name": "New Orleans Saints",
+        "city": "New Orleans, Louisiana",
+        "owner": "Gayle Benson",
+        "stadium": "Caesars Superdome",
+        "logo": "https://i.imgur.com/23qHkj59.png"
+      },
+      {
+        "id": 24,
+        "name": "New York Giants",
+        "city": "East Rutherford, New Jersey",
+        "owner": "John Mara, Steve Tisch",
+        "stadium": "MetLife Stadium",
+        "logo": "https://i.imgur.com/24qHkj59.png"
+      },
+      {
+        "id": 25,
+        "name": "New York Jets",
+        "city": "East Rutherford, New Jersey",
+        "owner": "Woody Johnson",
+        "stadium": "MetLife Stadium",
+        "logo": "https://i.imgur.com/25qHkj59.png"
+      },
+      {
+        "id": 26,
+        "name": "Philadelphia Eagles",
+        "city": "Philadelphia, Pennsylvania",
+        "owner": "Jeffrey Lurie",
+        "stadium": "Lincoln Financial Field",
+        "logo": "https://i.imgur.com/26qHkj59.png"
+      },
+      {
+        "id": 27,
+        "name": "Pittsburgh Steelers",
+        "city": "Pittsburgh, Pennsylvania",
+        "owner": "The Rooney Family",
+        "stadium": "Heinz Field",
+        "logo": "https://i.imgur.com/27qHkj59.png"
+      },
+      {
+        "id": 28,
+        "name": "San Francisco 49ers",
+        "city": "Santa Clara, California",
+        "owner": "Jed York",
+        "stadium": "Levi's Stadium",
+        "logo": "https://i.imgur.com/28qHkj59.png"
+      },
+      {
+        "id": 29,
+        "name": "Seattle Seahawks",
+        "city": "Seattle, Washington",
+        "owner": "Paul Allen Trust, Jody Allen",
+        "stadium": "Lumen Field",
+        "logo": "https://i.imgur.com/29qHkj59.png"
+      },
+      {
+        "id": 30,
+        "name": "Tampa Bay Buccaneers",
+        "city": "Tampa, Florida",
+        "owner": "Glazer family",
+        "stadium": "Raymond James Stadium",
+        "logo": "https://i.imgur.com/30qHkj59.png"
+      },
+      {
+        "id": 31,
+        "name": "Tennessee Titans",
+        "city": "Nashville, Tennessee",
+        "owner": "KSA Industries, Inc.",
+        "stadium": "Nissan Stadium",
+        "logo": "https://i.imgur.com/31qHkj59.png"
+      },
+      {
+        "id": 32,
+        "name": "Washington Football Team",
+        "city": "Landover, Maryland",
+        "owner": "Daniel Snyder",
+        "stadium": "FedExField",
+        "logo": "https://i.imgur.com/32qHkj59.png"
+      }
+    ]
+  }
+  

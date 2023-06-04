@@ -1,0 +1,245 @@
+{
+    "teams": [
+      {
+        "id": 1,
+        "name": "Arizona Diamondbacks",
+        "city": "Phoenix, Arizona",
+        "owner": "Ken Kendrick",
+        "stadium": "Chase Field",
+        "logo": "https://i.imgur.com/1qHkj59.png"
+      },
+      {
+        "id": 2,
+        "name": "Atlanta Braves",
+        "city": "Atlanta, Georgia",
+        "owner": "Liberty Media",
+        "stadium": "Truist Park",
+        "logo": "https://i.imgur.com/2qHkj59.png"
+      },
+      {
+        "id": 3,
+        "name": "Baltimore Orioles",
+        "city": "Baltimore, Maryland",
+        "owner": "Peter Angelos",
+        "stadium": "Oriole Park at Camden Yards",
+        "logo": "https://i.imgur.com/3qHkj59.png"
+      },
+      {
+        "id": 4,
+        "name": "Boston Red Sox",
+        "city": "Boston, Massachusetts",
+        "owner": "John W. Henry",
+        "stadium": "Fenway Park",
+        "logo": "https://i.imgur.com/4qHkj59.png"
+      },
+      {
+        "id": 5,
+        "name": "Chicago Cubs",
+        "city": "Chicago, Illinois",
+        "owner": "Ricketts family",
+        "stadium": "Wrigley Field",
+        "logo": "https://i.imgur.com/5qHkj59.png"
+      },
+      {
+        "id": 6,
+        "name": "Chicago White Sox",
+        "city": "Chicago, Illinois",
+        "owner": "Jerry Reinsdorf",
+        "stadium": "Guaranteed Rate Field",
+        "logo": "https://i.imgur.com/6qHkj59.png"
+      },
+      {
+        "id": 7,
+        "name": "Cincinnati Reds",
+        "city": "Cincinnati, Ohio",
+        "owner": "Bob Castellini",
+        "stadium": "Great American Ball Park",
+        "logo": "https://i.imgur.com/7qHkj59.png"
+      },
+      {
+        "id": 8,
+        "name": "Cleveland Guardians",
+        "city": "Cleveland, Ohio",
+        "owner": "Paul Dolan",
+        "stadium": "Progressive Field",
+        "logo": "https://i.imgur.com/8qHkj59.png"
+      },
+      {
+        "id": 9,
+        "name": "Colorado Rockies",
+        "city": "Denver, Colorado",
+        "owner": "Dick Monfort",
+        "stadium": "Coors Field",
+        "logo": "https://i.imgur.com/9qHkj59.png"
+      },
+      {
+        "id": 10,
+        "name": "Detroit Tigers",
+        "city": "Detroit, Michigan",
+        "owner": "Christopher Ilitch",
+        "stadium": "Comerica Park",
+        "logo": "https://i.imgur.com/10qHkj59.png"
+      },
+      {
+        "id": 11,
+        "name": "Houston Astros",
+        "city": "Houston, Texas",
+        "owner": "Jim Crane",
+        "stadium": "Minute Maid Park",
+        "logo": "https://i.imgur.com/11qHkj59.png"
+      },
+      {
+        "id": 12,
+        "name": "Kansas City Royals",
+        "city": "Kansas City, Missouri",
+        "owner": "John Sherman",
+        "stadium": "Kauffman Stadium",
+        "logo": "https://i.imgur.com/12qHkj59.png"
+      },
+      {
+        "id": 13,
+        "name": "Los Angeles Angels",
+        "city": "Anaheim, California",
+        "owner": "Arte Moreno",
+        "stadium": "Angel Stadium",
+        "logo": "https://i.imgur.com/13qHkj59.png"
+      },
+      {
+        "id": 14,
+        "name": "Los Angeles Dodgers",
+        "city": "Los Angeles, California",
+        "owner": "Guggenheim Baseball Management",
+        "stadium": "Dodger Stadium",
+        "logo": "https://i.imgur.com/14qHkj59.png"
+      },
+      {
+        "id": 15,
+        "name": "Miami Marlins",
+        "city": "Miami, Florida",
+        "owner": "Bruce Sherman, Derek Jeter",
+        "stadium": "loanDepot park",
+        "logo": "https://i.imgur.com/15qHkj59.png"
+      },
+      {
+        "id": 16,
+        "name": "Milwaukee Brewers",
+        "city": "Milwaukee, Wisconsin",
+        "owner": "Mark Attanasio",
+        "stadium": "American Family Field",
+        "logo": "https://i.imgur.com/16qHkj59.png"
+      },
+      {
+        "id": 17,
+        "name": "Minnesota Twins",
+        "city": "Minneapolis, Minnesota",
+        "owner": "Jim Pohlad",
+        "stadium": "Target Field",
+        "logo": "https://i.imgur.com/17qHkj59.png"
+      },
+      {
+        "id": 18,
+        "name": "New York Yankees",
+        "city": "New York City, New York",
+        "owner": "Hal Steinbrenner",
+        "stadium": "Yankee Stadium",
+        "logo": "https://i.imgur.com/18qHkj59.png"
+      },
+      {
+        "id": 19,
+        "name": "New York Mets",
+        "city": "New York City, New York",
+        "owner": "Steven Cohen",
+        "stadium": "Citi Field",
+        "logo": "https://i.imgur.com/19qHkj59.png"
+      },
+      {
+        "id": 20,
+        "name": "Oakland Athletics",
+        "city": "Oakland, California",
+        "owner": "John Fisher",
+        "stadium": "RingCentral Coliseum",
+        "logo": "https://i.imgur.com/20qHkj59.png"
+      },
+      {
+        "id": 21,
+        "name": "Philadelphia Phillies",
+        "city": "Philadelphia, Pennsylvania",
+        "owner": "John Middleton",
+        "stadium": "Citizens Bank Park",
+        "logo": "https://i.imgur.com/21qHkj59.png"
+      },
+      {
+        "id": 22,
+        "name": "Pittsburgh Pirates",
+        "city": "Pittsburgh, Pennsylvania",
+        "owner": "Robert Nutting",
+        "stadium": "PNC Park",
+        "logo": "https://i.imgur.com/22qHkj59.png"
+      },
+      {
+        "id": 23,
+        "name": "San Diego Padres",
+        "city": "San Diego, California",
+        "owner": "Ron Fowler, Peter Seidler",
+        "stadium": "Petco Park",
+        "logo": "https://i.imgur.com/23qHkj59.png"
+      },
+      {
+        "id": 24,
+        "name": "San Francisco Giants",
+        "city": "San Francisco, California",
+        "owner": "Larry Baer",
+        "stadium": "Oracle Park",
+        "logo": "https://i.imgur.com/24qHkj59.png"
+      },
+      {
+        "id": 25,
+        "name": "Seattle Mariners",
+        "city": "Seattle, Washington",
+        "owner": "Nintendo of America, John W. Stanton",
+        "stadium": "T-Mobile Park",
+        "logo": "https://i.imgur.com/25qHkj59.png"
+      },
+      {
+        "id": 26,
+        "name": "St. Louis Cardinals",
+        "city": "St. Louis, Missouri",
+        "owner": "William DeWitt Jr.",
+        "stadium": "Busch Stadium",
+        "logo": "https://i.imgur.com/26qHkj59.png"
+      },
+      {
+        "id": 27,
+        "name": "Tampa Bay Rays",
+        "city": "St. Petersburg, Florida",
+        "owner": "Stuart Sternberg",
+        "stadium": "Tropicana Field",
+        "logo": "https://i.imgur.com/27qHkj59.png"
+      },
+      {
+        "id": 28,
+        "name": "Texas Rangers",
+        "city": "Arlington, Texas",
+        "owner": "Ray Davis, Neil Leibman",
+        "stadium": "Globe Life Field",
+        "logo": "https://i.imgur.com/28qHkj59.png"
+      },
+      {
+        "id": 29,
+        "name": "Toronto Blue Jays",
+        "city": "Toronto, Ontario",
+        "owner": "Rogers Communications",
+        "stadium": "Rogers Centre",
+        "logo": "https://i.imgur.com/29qHkj59.png"
+      },
+      {
+        "id": 30,
+        "name": "Washington Nationals",
+        "city": "Washington, D.C.",
+        "owner": "Lerner Enterprises",
+        "stadium": "Nationals Park",
+        "logo": "https://i.imgur.com/30qHkj59.png"
+      }
+    ]
+  }
+  
